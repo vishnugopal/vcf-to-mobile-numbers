@@ -1,10 +1,10 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    vcf (0.0.5)
+    vcardigan (0.0.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  vcf
+  vcardigan
