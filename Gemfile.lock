@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    vcf (0.0.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  vcf
